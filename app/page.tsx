@@ -61,8 +61,8 @@ export default function HomePage() {
           {/* Stats */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-16">
             <div className="text-center">
-              <div className="text-3xl font-bold text-blue-600">AI</div>
-              <div className="text-gray-600">Powered</div>
+              <div className="text-3xl font-bold text-blue-600">AI Powered</div>
+              <div className="text-gray-600">Threat Analysis</div>
             </div>
             <div className="text-center">
               <div className="text-3xl font-bold text-green-600">Anonymous</div>
