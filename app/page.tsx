@@ -61,12 +61,12 @@ export default function HomePage() {
           {/* Stats */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-16">
             <div className="text-center">
-              <div className="text-3xl font-bold text-blue-600">63M+</div>
-              <div className="text-gray-600">MSMEs Protected</div>
+              <div className="text-3xl font-bold text-blue-600">AI</div>
+              <div className="text-gray-600">Powered</div>
             </div>
             <div className="text-center">
-              <div className="text-3xl font-bold text-green-600">₹1.6T</div>
-              <div className="text-gray-600">Cyber Losses Prevented</div>
+              <div className="text-3xl font-bold text-green-600">Anonymous</div>
+              <div className="text-gray-600">Reporting</div>
             </div>
             <div className="text-center">
               <div className="text-3xl font-bold text-purple-600">Real-Time</div>
