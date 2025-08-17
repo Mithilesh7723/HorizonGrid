@@ -205,7 +205,7 @@ export default function HomePage() {
               <CardHeader className="text-center">
                 <CardTitle className="text-2xl">Basic</CardTitle>
                 <div className="text-3xl font-bold">
-                  ₹500<span className="text-lg text-gray-600">/month</span>
+                  ₹499<span className="text-lg text-gray-600">/month</span>
                 </div>
                 <CardDescription>Complete protection for growing MSMEs</CardDescription>
               </CardHeader>
@@ -234,9 +234,9 @@ export default function HomePage() {
 
             <Card className="border-2">
               <CardHeader className="text-center">
-                <CardTitle className="text-2xl">Enterprise</CardTitle>
+                <CardTitle className="text-2xl">Premium</CardTitle>
                 <div className="text-3xl font-bold">
-                  ₹5,000<span className="text-lg text-gray-600">/month</span>
+                  ₹1,499<span className="text-lg text-gray-600">/month</span>
                 </div>
                 <CardDescription>Advanced features for large MSMEs</CardDescription>
               </CardHeader>
@@ -252,7 +252,7 @@ export default function HomePage() {
                   </li>
                   <li className="flex items-center gap-2">
                     <CheckCircle className="h-4 w-4 text-green-500" />
-                    Priority support & SLAs
+                    Priority support
                   </li>
                   <li className="flex items-center gap-2">
                     <CheckCircle className="h-4 w-4 text-green-500" />
